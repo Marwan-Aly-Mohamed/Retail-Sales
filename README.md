@@ -27,7 +27,7 @@ The dataset contains information on:
 - Performed descriptive analysis using SQL queries
 - Created visual dashboards to summarize insights
 
-📈 Findings & Report
+## 📈 Findings & Report
 🏆 Top-Selling Products & Categories
 - The "Office Supplies" category had the highest number of orders, but "Technology" generated the most revenue.
 - Binders and Phones were among the most frequently sold items.
