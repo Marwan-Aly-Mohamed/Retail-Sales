@@ -25,7 +25,32 @@ The dataset contains information on:
 ## 💡 Key Features
 - Cleaned and structured raw data
 - Performed descriptive analysis using SQL queries
-- Created visual dashboards to summarize insights (if available)
+- Created visual dashboards to summarize insights
+
+📈 Findings & Report
+🏆 Top-Selling Products & Categories
+- The "Office Supplies" category had the highest number of orders, but "Technology" generated the most revenue.
+- Binders and Phones were among the most frequently sold items.
+- Some low-cost products (like pens and paper) sold in high volume but had low profit margins.
+
+📍 Sales by Region
+- The Western region led in total sales and profit, while the Southern region had the lowest overall performance.
+- Some regions with high sales volume showed reduced profitability due to discounts or returns.
+
+📆 Sales Trends Over Time
+- December consistently saw a peak in sales, likely due to holiday shopping.
+- Sales dipped in February and August, showing potential off-season periods.
+- Profit trends didn't always align with sales – indicating the need to control discounts and product mix.
+
+💰 Profitability Insights
+- High discount rates often led to negative profit on large orders.
+- Products like Tables and Bookcases showed high sales but low or negative profit, suggesting inefficiency or pricing issues.
+- Focusing on profitable product segments (like Phones and Accessories) can improve margins.
+
+👥 Customer Behavior
+- Most customers preferred mid-range priced products with occasional high-value purchases.
+- Repeat orders were more common in the Technology segment, indicating brand or service loyalty.
+- Customers in urban regions placed more frequent but smaller orders.
 
 ## 🚀 How to Use
 1. Import the CSV file into your SQL environment (e.g., PostgreSQL, MySQL, SQLite)
